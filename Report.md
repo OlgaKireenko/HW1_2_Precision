@@ -8,7 +8,7 @@
 
 #В результате тестирования выявлены следующие дефекты:
 
-(Расчёт общего бонуса новым клиента)[https://github.com/OlgaKireenko/HW1_2_Precision/issues/1]
+[Расчёт общего бонуса новым клиента](https://github.com/OlgaKireenko/HW1_2_Precision/issues/1)
 
 #Описание процесса тестирования
 
